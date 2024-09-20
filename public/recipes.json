@@ -1,0 +1,86 @@
+
+
+
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with creamy eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "Parmesan cheese",
+            "pancetta",
+            "black pepper"
+        ],
+        "time":30,
+        "calories": 600,
+        "image": "https://i.ibb.co.com/GQxDVFp/Rectangle-20170-1.png"
+    },
+    {
+        "id": 2,
+        "title": "Chicken Caesar Salad",
+        "description": "A fresh and tasty salad with grilled chicken, romaine lettuce, croutons, and Caesar dressing.",
+        "ingredients": [
+            "chicken breast",
+            "romaine lettuce",
+            "croutons",
+            "Caesar dressing",
+            "Parmesan cheese"
+        ],
+        "time": 20,
+        "calories": 350,
+        "image": "https://i.ibb.co.com/3fHHHzS/Rectangle-20170.png"
+    },
+    {
+        "id": 3,
+        "title": "Vegetable Stir-Fry",
+        "description": "A quick and healthy vegetarian stir-fry with colorful veggies and a savory sauce.",
+        "ingredients": [
+            "bell peppers",
+            "broccoli",
+            "carrots",
+            "soy sauce",
+            "garlic",
+            "ginger"
+        ],
+        "time": 25,
+        "calories": 200,
+        "image": "https://i.ibb.co.com/9N9ggQD/top-close-up-view-plate-beans-green-beans-tomatoes-thewhite-notebook-bowls-colorful-spices-garlic-da.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Beef Tacos",
+        "description": "Delicious tacos filled with seasoned beef, fresh veggies, and topped with sour cream and cheese.",
+        "ingredients": [
+            "ground beef",
+            "taco seasoning",
+            "tortillas",
+            "lettuce",
+            "tomatoes",
+            "sour cream",
+            "cheddar cheese"
+        ],
+        "time": 15,
+        "calories": 500,
+        "image": "https://i.ibb.co.com/7vdnC9B/top-view-delicious-meat-soup-with-greens-potatoes-dark-desk.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Chocolate Chip Cookies",
+        "description": "Classic chewy chocolate chip cookies that everyone loves.",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "brown sugar",
+            "butter",
+            "eggs",
+            "chocolate chips",
+            "vanilla extract",
+            "baking soda"
+        ],
+        "time": 40,
+        "calories": 150 ,
+        "image": "https://i.ibb.co.com/GQxDVFp/Rectangle-20170-1.png"
+    }
+]
