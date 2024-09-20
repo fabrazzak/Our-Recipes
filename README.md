@@ -1,4 +1,8 @@
-# React + Vite
+# our Recipes react project live link  here  
+
+### Netlify link: https://66eda33e9ba64e1df994658b--our-recipes123.netlify.app/
+
+### main domain link: http://our-recipes.abdur-razzak.online/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

@@ -11,7 +11,7 @@ const Currently = ({readyCook})=> {
     useEffect( ()=>{
        const fetchRecipes = async ()=>{
            try {
-               const res = await fetch("../../../../public/recipes.json");
+               const res = await fetch("https://abdur-razzak.online/json-data/recipes.json");
                const data = await res.json();
                setRecipe(data)
 

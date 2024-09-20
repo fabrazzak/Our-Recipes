@@ -15,7 +15,7 @@ const Recipes = () => {
 
 
     useEffect(() => {
-        fetch("../../../../public/recipes.json")
+        fetch("https://abdur-razzak.online/json-data/recipes.json")
             .then(res => res.json())
             .then(data => setRecipes(data))
     }, [])
